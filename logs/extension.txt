@@ -1,0 +1,176 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.52.1
+Flutter extension: 3.52.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.73.1
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    General
+
+Wed Nov 16 2022 [00:17:35 GMT+0530 (India Standard Time)] Log file started
+[12:17:35 am] [General] [Info] Searching for SDKs...
+[12:17:35 am] [General] [Info] Environment PATH:
+[12:17:35 am] [General] [Info]     C:\Python310\Scripts\
+[12:17:35 am] [General] [Info]     C:\Python310\
+[12:17:35 am] [General] [Info]     C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin
+[12:17:35 am] [General] [Info]     C:\WINDOWS\system32
+[12:17:35 am] [General] [Info]     C:\WINDOWS
+[12:17:35 am] [General] [Info]     C:\WINDOWS\System32\Wbem
+[12:17:35 am] [General] [Info]     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[12:17:35 am] [General] [Info]     C:\WINDOWS\System32\OpenSSH\
+[12:17:35 am] [General] [Info]     C:\Program Files\Git\cmd
+[12:17:35 am] [General] [Info]     C:\ProgramData\chocolatey\bin
+[12:17:35 am] [General] [Info]     C:\Program Files\nodejs\
+[12:17:35 am] [General] [Info]     C:\Flutter\Flutter Dev\sdks\flutter\bin
+[12:17:35 am] [General] [Info]     C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin
+[12:17:35 am] [General] [Info]     C:\Ruby31-x64\bin
+[12:17:35 am] [General] [Info]     C:\Users\nihad\AppData\Local\Microsoft\WindowsApps
+[12:17:35 am] [General] [Info]     C:\MinGW\bin
+[12:17:35 am] [General] [Info]     C:\Users\nihad\AppData\Local\Programs\Microsoft VS Code\bin
+[12:17:35 am] [General] [Info]     C:\Users\nihad\AppData\Local\atom\bin
+[12:17:35 am] [General] [Info]     C:\Users\nihad\AppData\Local\Microsoft\WindowsApps
+[12:17:35 am] [General] [Info]     C:\Users\nihad\AppData\Roaming\npm
+[12:17:35 am] [General] [Info] Took 84ms to search for projects (5 levels)
+[12:17:35 am] [General] [Info] Took 0ms to filter out excluded projects (0 exclusion rules)
+[12:17:35 am] [General] [Info] Found Flutter project at C:\Users\nihad\OneDrive\Desktop\New folder\Instagram-master:
+			Mobile? true
+			Web? false
+			Create Trigger? false
+			Flutter Repo? false
+[12:17:35 am] [General] [Info] Searching for flutter.bat
+[12:17:35 am] [General] [Info]     Looking for flutter.bat in:
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\OneDrive\Desktop\New folder\Instagram-master
+[12:17:35 am] [General] [Info]         C:\Users\nihad\OneDrive\Desktop\New folder\Instagram-master\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\OneDrive\Desktop\New folder\Instagram-master\.flutter
+[12:17:35 am] [General] [Info]         C:\Users\nihad\OneDrive\Desktop\New folder\Instagram-master\.flutter\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\OneDrive\Desktop\New folder\Instagram-master\vendor\flutter
+[12:17:35 am] [General] [Info]         C:\Users\nihad\OneDrive\Desktop\New folder\Instagram-master\vendor\flutter\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\flutter-sdk
+[12:17:35 am] [General] [Info]         C:\Users\nihad\flutter-sdk\bin
+[12:17:35 am] [General] [Info]         /google/flutter
+[12:17:35 am] [General] [Info]         \google\flutter\bin
+[12:17:35 am] [General] [Info]         C:\Python310\Scripts\
+[12:17:35 am] [General] [Info]         C:\Python310\Scripts\bin
+[12:17:35 am] [General] [Info]         C:\Python310\
+[12:17:35 am] [General] [Info]         C:\Python310\bin
+[12:17:35 am] [General] [Info]         C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS\system32
+[12:17:35 am] [General] [Info]         C:\WINDOWS\system32\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS
+[12:17:35 am] [General] [Info]         C:\WINDOWS\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\Wbem
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\Wbem\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\OpenSSH\bin
+[12:17:35 am] [General] [Info]         C:\Program Files\Git\cmd
+[12:17:35 am] [General] [Info]         C:\Program Files\Git\cmd\bin
+[12:17:35 am] [General] [Info]         C:\ProgramData\chocolatey\bin
+[12:17:35 am] [General] [Info]         C:\Program Files\nodejs\
+[12:17:35 am] [General] [Info]         C:\Program Files\nodejs\bin
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin
+[12:17:35 am] [General] [Info]         C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin
+[12:17:35 am] [General] [Info]         C:\Ruby31-x64\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Microsoft\WindowsApps
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Microsoft\WindowsApps\bin
+[12:17:35 am] [General] [Info]         C:\MinGW\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Programs\Microsoft VS Code\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\atom\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Microsoft\WindowsApps
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Microsoft\WindowsApps\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Roaming\npm
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Roaming\npm\bin
+[12:17:35 am] [General] [Info]     Found at:
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin
+[12:17:35 am] [General] [Info]     Candidate paths to be post-filtered:
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter
+[12:17:35 am] [General] [Info]     Found at C:\Flutter\Flutter Dev\sdks\flutter
+[12:17:35 am] [General] [Info]     Returning SDK path C:\Flutter\Flutter Dev\sdks\flutter for flutter.bat
+[12:17:35 am] [General] [Info] Searching for dart.exe
+[12:17:35 am] [General] [Info]     Looking for dart.exe in:
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk\bin
+[12:17:35 am] [General] [Info]         C:\Python310\Scripts\
+[12:17:35 am] [General] [Info]         C:\Python310\Scripts\bin
+[12:17:35 am] [General] [Info]         C:\Python310\
+[12:17:35 am] [General] [Info]         C:\Python310\bin
+[12:17:35 am] [General] [Info]         C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS\system32
+[12:17:35 am] [General] [Info]         C:\WINDOWS\system32\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS
+[12:17:35 am] [General] [Info]         C:\WINDOWS\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\Wbem
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\Wbem\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[12:17:35 am] [General] [Info]         C:\WINDOWS\System32\OpenSSH\bin
+[12:17:35 am] [General] [Info]         C:\Program Files\Git\cmd
+[12:17:35 am] [General] [Info]         C:\Program Files\Git\cmd\bin
+[12:17:35 am] [General] [Info]         C:\ProgramData\chocolatey\bin
+[12:17:35 am] [General] [Info]         C:\Program Files\nodejs\
+[12:17:35 am] [General] [Info]         C:\Program Files\nodejs\bin
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin
+[12:17:35 am] [General] [Info]         C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin
+[12:17:35 am] [General] [Info]         C:\Ruby31-x64\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Microsoft\WindowsApps
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Microsoft\WindowsApps\bin
+[12:17:35 am] [General] [Info]         C:\MinGW\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Programs\Microsoft VS Code\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\atom\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Microsoft\WindowsApps
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Local\Microsoft\WindowsApps\bin
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Roaming\npm
+[12:17:35 am] [General] [Info]         C:\Users\nihad\AppData\Roaming\npm\bin
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk\bin
+[12:17:35 am] [General] [Info]     Found at:
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk\bin
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk\bin
+[12:17:35 am] [General] [Info]     Candidate paths to be post-filtered:
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk
+[12:17:35 am] [General] [Info]         C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk
+[12:17:35 am] [General] [Info]     Found at C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk
+[12:17:35 am] [General] [Info]     Returning SDK path C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk for dart.exe
+[12:17:35 am] [General] [Info] Experiment random number is 37 for experiment 'sdkDaps'. Experiment is enabled for <= 10
+[12:17:35 am] [General] [Info] Experiment 'sdkDaps' does not apply and will not be activated
+[12:17:35 am] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.52.1
+Flutter extension: 3.52.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.73.1
+Platform: win
+
+Workspace type: Flutter
+Analyzer type: LSP
+Multi-root?: false
+
+Dart SDK:
+    Loc: C:\Flutter\Flutter Dev\sdks\flutter\bin\cache\dart-sdk
+    Ver: 2.17.5
+Flutter SDK:
+    Loc: C:\Flutter\Flutter Dev\sdks\flutter
+    Ver: 3.0.3
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[12:17:35 am] [General] [Info] Returning cached results for project search
+[12:17:35 am] [General] [Info] Activating Flutter extension for Flutter project...
+[12:17:35 am] [General] [Info] Extension:Startup timing: 237ms
+[12:17:35 am] [General] [Info] Found 1 folders requiring "pub get":
+    C:\Users\nihad\OneDrive\Desktop\New folder\Instagram-master
+[12:17:35 am] [General] [Info] Caching Pub package names from pub.dev...
+Wed Nov 16 2022 [00:17:36 GMT+0530 (India Standard Time)] Log file ended
